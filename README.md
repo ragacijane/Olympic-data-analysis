@@ -1,6 +1,7 @@
 To do:
 
-Optimise code
+1. Optimise C++ code
+2. Create data base
 
 ***********************
 In cmd: javah package.name ( name of java class where native function is created )
