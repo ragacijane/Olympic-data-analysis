@@ -2,6 +2,7 @@ To do:
 
 1. Optimise C++ code
 2. Create data base
+3. Add video presentation of app
 
 ***********************
 In cmd: javah package.name ( name of java class where native function is created )
