@@ -1,3 +1,6 @@
+# Sorry! Still in procces of arranging this repository.
+
+
 To do:
 
 1. Optimise C++ code
